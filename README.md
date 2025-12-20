@@ -314,6 +314,22 @@ If you find this repository valuable, consider giving it a **Star** ⭐ on GitHu
 
 <img src="https://img.shields.io/badge/Support_my_work-Star_the_repo ⭐-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/If_you_find_this_repository_valuable-Consider_giving_it_a_Star ⭐_to_support_my_work-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/If_you_find_this_repository_valuable-Consider_giving_it_a_Star ⭐_to_support_my_work-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Thanks_for_visiting_my_profile!-🤝-style=for-the-badge&color=0DAD8D"/>
+
+<img src="https://img.shields.io/badge/Thanks_for_visiting_my_profile!-🤝-style=for-the-badge&color=0DAD8D&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/If_you_find_my_work_valuable-Please_consider_giving_a_Star ⭐-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/If_you_find_my_work_valuable-Please_consider_giving_a_Star ⭐-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Support_my_work-Give_it_a_Star ⭐-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Support_my_work-⭐_Star_on_GitHub-style=for-the-badge&color=0DAD8D&logo=github&logoColor=white"/>
+
 ---
 
 ## <span id="dashboard-snapshot">🖼️ Dashboard Snapshot</span>
