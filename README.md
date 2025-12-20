@@ -294,7 +294,7 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 </a>
 </div>
 
-🤝 *Thanks for visiting my profile!*  
+🤝 ***Thanks for visiting my profile!***
 
 <!-- ⭐💫 Shower stars if you like my repos -->
 <div align="center">
