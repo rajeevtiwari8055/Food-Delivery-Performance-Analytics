@@ -274,24 +274,16 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
 <div align="center">
-<!-- ✖️ X -->
-<a href="https://x.com/rajeevtiwariRT" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="30" height="30">
-</a>
 <!-- 💼 LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
-<!-- 🆔 GitHub -->
-<a href="https://github.com/rajeevgit8055hub" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30">
-</a>
 <!-- 📮 Gmail -->
-<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
-</a>
+<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"></a>
+<!-- ✖️ X -->
+<a href="https://x.com/rajeevtiwariRT" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="30" height="30"></a>  
+<!-- 🆔 GitHub -->
+<a href="https://github.com/rajeevgit8055hub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30"></a>
 <!-- 🌐 Website -->
-<a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="30" height="30">
-</a>
+<a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="30" height="30"></a>
 </div>
 
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
