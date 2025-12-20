@@ -286,20 +286,6 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 <a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="35" height="35"></a>
 </div>
 
-
-<div align="center">
-<!-- 💼 LinkedIn -->
-<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" /></a>
-<!-- 📮 Gmail -->
-<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
-<!-- ✖️ X -->
-<a href="https://x.com/rajeevtiwariRT" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X"></a>  
-<!-- 🆔 GitHub -->
-<a href="https://github.com/rajeevgit8055hub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub"></a>
-<!-- 🌐 Website -->
-<a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website"></a>
-</div>
-
 <!-- Typing Animation / 🤝 Thanks for Visiting! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+profile!)](https://git.io/typing-svg)
 
