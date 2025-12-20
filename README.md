@@ -271,7 +271,7 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 ## <span id="contact">📬 Connect with Me</span>
 
 <!-- Typing Animation / 🤝 Connect with me -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
 
 <div align="center">
 <!-- 💼 LinkedIn -->
